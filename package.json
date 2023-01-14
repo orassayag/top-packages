@@ -18,7 +18,7 @@
     "chalk": "^5.2.0",
     "cheerio": "^1.0.0-rc.12",
     "cloudinary": "^1.33.0",
-    "commander": "^9.5.0",
+    "commander": "^10.0.0",
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.3",
