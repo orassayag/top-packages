@@ -45,7 +45,7 @@
     "pug": "^3.0.2",
     "rimraf": "^4.4.0",
     "shelljs": "^0.8.5",
-    "sinon": "^15.0.1",
+    "sinon": "^15.0.2",
     "socket.io": "^4.6.1",
     "superagent": "^8.0.9",
     "supertest": "^6.3.3",
