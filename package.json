@@ -54,7 +54,7 @@
     "rimraf": "^4.4.1",
     "safe-regex-test": "^1.0.0",
     "shelljs": "^0.8.5",
-    "sinon": "^15.0.2",
+    "sinon": "^15.0.3",
     "socket.io": "^4.6.1",
     "string-width": "^5.1.2",
     "superagent": "^8.0.9",
