@@ -57,7 +57,7 @@
     "rimraf": "^5.0.0",
     "safe-regex-test": "^1.0.0",
     "shelljs": "^0.8.5",
-    "sinon": "^15.0.3",
+    "sinon": "^15.0.4",
     "slice-ansi": "^6.0.0",
     "slugify": "^1.6.6",
     "socket.io": "^4.6.1",
