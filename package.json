@@ -61,7 +61,7 @@
     "slice-ansi": "^6.0.0",
     "slugify": "^1.6.6",
     "socket.io": "^4.6.1",
-    "string-width": "^5.1.2",
+    "string-width": "^6.1.0",
     "stringify-object": "^5.0.0",
     "superagent": "^8.0.9",
     "supertest": "^6.3.3",
