@@ -46,7 +46,7 @@
     "mdast-util-to-string": "^3.2.0",
     "mocha": "^10.2.0",
     "moment": "^2.29.4",
-    "mongoose": "^7.2.0",
+    "mongoose": "^7.2.1",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.22",
     "passport": "^0.6.0",
@@ -72,6 +72,6 @@
     "validator": "^13.9.0",
     "winston": "^3.8.2",
     "wrap-ansi": "^8.1.0",
-    "yup": "^1.1.1"
+    "yup": "^1.2.0"
   }
 }
