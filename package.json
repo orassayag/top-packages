@@ -60,7 +60,7 @@
     "sinon": "^15.2.0",
     "slice-ansi": "^6.0.0",
     "slugify": "^1.6.6",
-    "socket.io": "^4.6.2",
+    "socket.io": "^4.7.0",
     "string-width": "^6.1.0",
     "stringify-object": "^5.0.0",
     "superagent": "^8.0.9",
