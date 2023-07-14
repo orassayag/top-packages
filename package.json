@@ -65,7 +65,7 @@
     "stringify-object": "^5.0.0",
     "superagent": "^8.0.9",
     "supertest": "^6.3.3",
-    "test-mixer": "^4.1.10",
+    "test-mixer": "^4.1.11",
     "tinybench": "^2.5.0",
     "underscore": "^1.13.6",
     "uuid": "^9.0.0",
