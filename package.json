@@ -58,7 +58,7 @@
     "safe-regex-test": "^1.0.0",
     "shelljs": "^0.8.5",
     "sinon": "^17.0.0",
-    "slice-ansi": "^7.0.0",
+    "slice-ansi": "^7.1.0",
     "slugify": "^1.6.6",
     "socket.io": "^4.7.2",
     "string-width": "^7.0.0",
