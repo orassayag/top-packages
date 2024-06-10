@@ -80,7 +80,7 @@
     "tiny-invariant": "^1.3.3",
     "tinybench": "^2.8.0",
     "underscore": "^1.13.6",
-    "uuid": "^9.0.1",
+    "uuid": "^10.0.0",
     "validator": "^13.12.0",
     "winston": "^3.13.0",
     "wrap-ansi": "^9.0.0",
