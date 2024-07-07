@@ -62,7 +62,7 @@
     "pug": "^3.0.3",
     "react-form-validation-checker": "^1.0.11",
     "rfdc": "^1.4.1",
-    "rimraf": "^5.0.7",
+    "rimraf": "^5.0.8",
     "safe-regex-test": "^1.0.3",
     "shelljs": "^0.8.5",
     "sinon": "^18.0.0",
