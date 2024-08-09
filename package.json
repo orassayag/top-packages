@@ -82,7 +82,7 @@
     "underscore": "^1.13.7",
     "uuid": "^10.0.0",
     "validator": "^13.12.0",
-    "winston": "^3.14.0",
+    "winston": "^3.14.1",
     "wrap-ansi": "^9.0.0",
     "yup": "^1.4.0"
   }
