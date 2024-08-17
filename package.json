@@ -71,7 +71,7 @@
     "socket.io": "^4.7.5",
     "string-width": "^7.2.0",
     "stringify-object": "^5.0.0",
-    "superagent": "^10.0.1",
+    "superagent": "^10.0.2",
     "supertest": "^7.0.0",
     "test-mixer": "^4.1.14",
     "tiny-coerce": "^3.0.2",
@@ -82,7 +82,7 @@
     "underscore": "^1.13.7",
     "uuid": "^10.0.0",
     "validator": "^13.12.0",
-    "winston": "^3.14.1",
+    "winston": "^3.14.2",
     "wrap-ansi": "^9.0.0",
     "yup": "^1.4.0"
   }
