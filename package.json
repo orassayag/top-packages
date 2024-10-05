@@ -32,11 +32,11 @@
     "dotenv": "^16.4.5",
     "dset": "^3.1.4",
     "escalade": "^3.2.0",
-    "eslint": "^9.11.1",
+    "eslint": "^9.12.0",
     "express": "^4.21.0",
     "express-jwt": "^8.4.1",
     "fastify": "^5.0.0",
-    "file-entry-cache": "^9.1.0",
+    "file-entry-cache": "^10.0.0",
     "fs-extra": "^11.2.0",
     "grunt": "^1.6.1",
     "http-status": "^1.7.4",
@@ -82,7 +82,7 @@
     "underscore": "^1.13.7",
     "uuid": "^10.0.0",
     "validator": "^13.12.0",
-    "winston": "^3.14.2",
+    "winston": "^3.15.0",
     "wrap-ansi": "^9.0.0",
     "yup": "^1.4.0"
   }
