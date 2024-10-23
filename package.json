@@ -18,7 +18,7 @@
     "bcrypt": "^5.1.1",
     "bluebird": "^3.7.2",
     "centra": "^2.7.0",
-    "chai": "^5.1.1",
+    "chai": "^5.1.2",
     "chalk": "^5.3.0",
     "cheerio": "^1.0.0",
     "cloudinary": "^2.5.1",
