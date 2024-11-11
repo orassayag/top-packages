@@ -36,7 +36,7 @@
     "express": "^4.21.1",
     "express-jwt": "^8.4.1",
     "fastify": "^5.1.0",
-    "file-entry-cache": "^10.0.1",
+    "file-entry-cache": "^10.0.2",
     "fs-extra": "^11.2.0",
     "grunt": "^1.6.1",
     "http-status": "^2.0.0",
@@ -80,9 +80,9 @@
     "tiny-invariant": "^1.3.3",
     "tinybench": "^3.0.3",
     "underscore": "^1.13.7",
-    "uuid": "^11.0.2",
+    "uuid": "^11.0.3",
     "validator": "^13.12.0",
-    "winston": "^3.16.0",
+    "winston": "^3.17.0",
     "wrap-ansi": "^9.0.0",
     "yup": "^1.4.0"
   }
