@@ -21,7 +21,7 @@
     "chai": "^5.2.0",
     "chalk": "^5.4.1",
     "cheerio": "^1.0.0",
-    "cloudinary": "^2.5.1",
+    "cloudinary": "^2.6.0",
     "color": "^5.0.0",
     "color-string": "^2.0.1",
     "commander": "^13.1.0",
