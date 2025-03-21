@@ -72,7 +72,7 @@
     "string-width": "^7.2.0",
     "stringify-object": "^5.0.0",
     "superagent": "^10.2.0",
-    "supertest": "^7.0.0",
+    "supertest": "^7.1.0",
     "test-mixer": "^4.1.17",
     "tiny-coerce": "^3.0.2",
     "tiny-colors": "^2.2.2",
