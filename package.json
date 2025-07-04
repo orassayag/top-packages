@@ -41,7 +41,7 @@
     "grunt": "^1.6.1",
     "http-status": "^2.1.0",
     "is-typed-array": "^1.1.15",
-    "jest": "^30.0.3",
+    "jest": "^30.0.4",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
     "karma": "^6.4.4",
