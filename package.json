@@ -42,7 +42,7 @@
     "http-status": "^2.1.0",
     "is-typed-array": "^1.1.15",
     "jest": "^30.0.5",
-    "joi": "^17.13.3",
+    "joi": "^18.0.0",
     "jsonwebtoken": "^9.0.2",
     "karma": "^6.4.4",
     "low-rm": "^0.0.4",
