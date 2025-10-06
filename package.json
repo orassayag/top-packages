@@ -50,7 +50,7 @@
     "mdast-util-to-string": "^4.0.0",
     "mocha": "^11.7.4",
     "moment": "^2.30.1",
-    "mongoose": "^8.19.0",
+    "mongoose": "^8.19.1",
     "morgan": "^1.10.1",
     "nanoid": "^5.1.6",
     "nodemon": "^3.1.10",
