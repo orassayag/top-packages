@@ -73,7 +73,7 @@
     "stringify-object": "^6.0.0",
     "superagent": "^10.2.3",
     "supertest": "^7.1.4",
-    "test-mixer": "^4.1.27",
+    "test-mixer": "^4.1.28",
     "tiny-coerce": "^3.0.2",
     "tiny-colors": "^2.2.2",
     "tiny-delay": "^1.2.0",
