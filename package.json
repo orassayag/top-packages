@@ -79,7 +79,7 @@
     "superagent": "^10.2.3",
     "supertest": "^7.1.4",
     "tagged-tag": "^1.0.0",
-    "test-mixer": "^4.1.29",
+    "test-mixer": "^4.2.0",
     "tiny-coerce": "^3.0.2",
     "tiny-colors": "^2.2.2",
     "tiny-cursor": "^2.0.1",
