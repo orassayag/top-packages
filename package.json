@@ -47,7 +47,7 @@
     "is-typed-array": "^1.1.15",
     "jest": "^30.2.0",
     "joi": "^18.0.2",
-    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken": "^9.0.3",
     "karma": "^6.4.4",
     "low-rm": "^0.0.4",
     "lower-case": "^2.0.2",
