@@ -73,7 +73,7 @@
     "sinon": "^21.0.1",
     "slice-ansi": "^7.1.2",
     "slugify": "^1.6.6",
-    "socket.io": "^4.8.2",
+    "socket.io": "^4.8.3",
     "string-width": "^8.1.0",
     "stringify-object": "^6.0.0",
     "superagent": "^10.2.3",
