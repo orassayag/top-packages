@@ -80,7 +80,7 @@
     "supertest": "^7.2.2",
     "tagged-tag": "^1.0.0",
     "test-mixer": "^4.2.3",
-    "tiny-coerce": "^3.0.2",
+    "tiny-coerce": "^3.1.0",
     "tiny-colors": "^2.2.2",
     "tiny-cursor": "^2.0.1",
     "tiny-delay": "^1.2.0",
