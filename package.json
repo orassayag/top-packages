@@ -58,7 +58,7 @@
     "commander": "^14.0.3",
     "cors": "^2.8.6",
     "cross-env": "^10.1.0",
-    "defu": "^6.1.6",
+    "defu": "^6.1.7",
     "dom-serializer": "^3.0.0",
     "dotenv": "^17.4.1",
     "dset": "^3.1.4",
