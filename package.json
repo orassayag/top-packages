@@ -37,7 +37,7 @@
   "author": "Or Assayag <orassayag@gmail.com> (https://github.com/orassayag)",
   "license": "MIT",
   "dependencies": {
-    "@file-type/xml": "^1.1.0",
+    "@file-type/xml": "^1.1.1",
     "@jest/get-type": "^30.1.0",
     "@tinyhttp/type-is": "^2.2.5",
     "@xhmikosr/archive-type": "^8.0.1",
