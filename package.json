@@ -2,7 +2,12 @@
   "name": "top-packages",
   "version": "1.0.0",
   "description": "A curated collection of the most popular and widely-used npm packages for Node.js development, featuring 98 essential packages spanning web frameworks, testing tools, security utilities, validation libraries, and more",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/top-packages.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,16 +31,51 @@
     "express",
     "fastify",
     "jest",
-    "mocha",
-    "axios",
-    "bcrypt",
-    "joi",
-    "winston",
-    "starter-kit",
-    "boilerplate"
+    "mocha"
   ],
-  "author": "Or Assayag <orassayag@gmail.com> (https://github.com/orassayag)",
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "files": [
+    ".github",
+    ".vscode",
+    "src",
+    ".gitignore",
+    ".prettierrc",
+    "CHANGELOG.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "eslint.config.mjs",
+    "INSTRUCTIONS.md",
+    "LICENSE",
+    "package-lock.json",
+    "package.json",
+    "README.md",
+    "SECURITY.md"
+  ],
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orassayag/top-packages/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/orassayag"
+  },
+  "homepage": "https://github.com/orassayag/top-packages#readme",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "devDependencies": {},
   "dependencies": {
     "@file-type/xml": "^1.1.1",
     "@jest/get-type": "^30.1.0",
@@ -77,7 +117,7 @@
     "jsonwebtoken": "^9.0.3",
     "karma": "^6.4.4",
     "low-rm": "^0.0.4",
-    "lower-case": "^2.0.2",
+    "lower-case": "^3.0.0",
     "mdast-util-to-string": "^4.0.0",
     "mocha": "^11.7.5",
     "moment": "^2.30.1",

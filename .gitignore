@@ -1,55 +1,29 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# Dependency directory.
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules/
-/node_modules
-node_modules
-/.pnp
-.pnp.js
-
-# Temporary directories for any environment mode.
-# Compiled binary addons.
-# (http://nodejs.org/api/addons.html)
-build/
-/build
-build
-
-# Dist directories.
-dist/
-/dist
+# Distribution
 dist
+out
+build
+node_modules
 
-# Sources.
-sources/
-/sources
-sources
+# Logs
+*.log*
+logs
 
-# Misc.
-**/misc/backups/
-/misc/backups
-misc/backups/
-/misc/backups/
-misc/backups
+# Environment
+*.env*
+!.env.example
+.env.production
+.env.test
 
-# Logs.
-/logs
+# OAuth
+token.json
+client_secret*.json
 
-# Testing.
-/coverage
-test
+# Runtime Data
+api-stats.json
+
+# Misc
+.DS_Store
+.pnpm-store
+
+# Tests
 coverage
-
-# Build tools.
-.travis.yml
-.jenkins.yml
-.codeclimate.yml
-
-# Linters.
-.babelrc
-.jscsrc
-.jsbeautifyrc
-.jshintrc
-.eslintignore
-.eslintrc*
-.stylelintrc

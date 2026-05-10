@@ -9,6 +9,7 @@ Everyone is welcome to contribute to this project. Contributing doesn't just mea
 ### Reporting Issues
 
 If you find a bug or have a suggestion:
+
 1. Check if the issue already exists in the GitHub Issues
 2. If not, create a new issue with:
    - Clear title and description
@@ -84,12 +85,14 @@ When updating package versions:
 ### Code Style Guidelines
 
 This project maintains simplicity:
+
 - Keep `package.json` clean and well-organized
 - Group similar packages by category in documentation
 - Use consistent formatting
 - Document any special considerations
 
 Before submitting:
+
 ```bash
 # Install/update dependencies
 npm install
@@ -104,9 +107,9 @@ node index.js
 
 Please feel free to contact me with any question, comment, pull-request, issue, or any other thing you have in mind.
 
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 Thank you for contributing! 🙏
