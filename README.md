@@ -1,6 +1,6 @@
 # Top Packages
 
-A curated collection of the most popular and widely-used npm packages for Node.js development. This project serves as a reference guide and starter template featuring 98 essential packages spanning web frameworks, testing tools, security utilities, validation libraries, and more.
+A curated collection of the most popular and widely-used npm packages for Node.js development. This project serves as a reference guide and starter template featuring essential packages spanning web frameworks, testing tools, security utilities, validation libraries, and more.
 
 Built in 2024-2025. This collection provides developers with a comprehensive overview of battle-tested npm packages with compatible versions.
 
@@ -8,7 +8,7 @@ Built in 2024-2025. This collection provides developers with a comprehensive ove
 
 ### Core Capabilities
 
-- **Curated Package Collection**: Access to 98+ essential npm packages across 10+ categories.
+- **Curated Package Collection**: Access to essential npm packages across 10+ categories.
 - **Version Reference**: Production-ready and compatible version numbers for each package.
 - **Categorized Directory**: Organized by functionality (Web, Testing, Security, etc.).
 - **Starter Template**: Easily bootstrap new projects with battle-tested dependencies.

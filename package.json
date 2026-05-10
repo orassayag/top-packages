@@ -1,7 +1,7 @@
 {
   "name": "top-packages",
   "version": "1.0.0",
-  "description": "A curated collection of the most popular and widely-used npm packages for Node.js development, featuring 98 essential packages spanning web frameworks, testing tools, security utilities, validation libraries, and more",
+  "description": "A curated collection of popular npm packages for Node.js development, serving as a reference guide and starter template with essential libraries covering web frameworks, testing, security, validation, and developer tooling. Provides a practical overview of widely adopted and battle-tested packages",
   "type": "module",
   "main": "src/index.js",
   "repository": {
