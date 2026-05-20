@@ -128,9 +128,6 @@ importers:
       low-rm:
         specifier: ^0.0.4
         version: 0.0.4
-      lower-case:
-        specifier: ^3.0.0
-        version: 3.0.0
       mdast-util-to-string:
         specifier: ^4.0.0
         version: 4.0.0
@@ -2893,10 +2890,6 @@ packages:
 
   low-rm@0.0.4:
     resolution: {integrity: sha512-KdBSwHhpnCPERTcSw3Vcn59r+Vlnil+gLlz4uEo8oLRkxI0NoetCaLq5jGjc2XF72dSFPkCBd+mOrII+oZzfnQ==}
-
-  lower-case@3.0.0:
-    resolution: {integrity: sha512-KvfWLLeuCsAiu/qKewwRySKdF9ZUU9kuYMNxQWkLBvAe43t1013h7Cef6+I1BJAo9dpioYcM5rXwdQjCoJ3U/A==}
-    deprecated: Use `str.toLocaleLowerCase` or `str.toLowerCase`
 
   lru-cache@10.4.3:
     resolution: {integrity: sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==}
@@ -7617,8 +7610,6 @@ snapshots:
       pg: 8.21.0
     transitivePeerDependencies:
       - pg-native
-
-  lower-case@3.0.0: {}
 
   lru-cache@10.4.3: {}
 
