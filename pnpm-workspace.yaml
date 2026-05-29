@@ -1,3 +1,5 @@
 allowBuilds:
   bcrypt: true
   unrs-resolver: true
+minimumReleaseAgeExclude:
+  - commander@15.0.0
