@@ -141,8 +141,8 @@ importers:
         specifier: ^9.6.3
         version: 9.6.3(socks@2.8.9)
       morgan:
-        specifier: ^1.10.1
-        version: 1.10.1
+        specifier: ^1.11.0
+        version: 1.11.0
       nanoid:
         specifier: ^5.1.11
         version: 5.1.11
@@ -3068,8 +3068,8 @@ packages:
   more-proms@1.11.6:
     resolution: {integrity: sha512-9fTQTfoziXwis8B9aiJ6HsY7DocKTHV0/rqULTHDV0czVtLFfaMZNlF3StxNdKJa0aQCHd5uZEnmWQLUaetMyQ==}
 
-  morgan@1.10.1:
-    resolution: {integrity: sha512-223dMRJtI/l25dJKWpgij2cMtywuG/WiUKXdvwfbhGKBhy1puASqXwFzmWZ7+K73vUPoR7SS2Qz2cI/g9MKw0A==}
+  morgan@1.11.0:
+    resolution: {integrity: sha512-zSkVu3t18r39pw4ixfBKvfZi3y2UOqr7d4WYwcj3m8nXpEQK4rPO6GLzs/CExoRgmX3y9EjmmcXqv6jq0SK46g==}
     engines: {node: '>= 0.8.0'}
 
   mpath@0.9.0:
@@ -7794,12 +7794,12 @@ snapshots:
       key-index: 1.7.6
       req-package-json: 2.1.4
 
-  morgan@1.10.1:
+  morgan@1.11.0:
     dependencies:
       basic-auth: 2.0.1
       debug: 2.6.9
       depd: 2.0.0
-      on-finished: 2.3.0
+      on-finished: 2.4.1
       on-headers: 1.1.0
     transitivePeerDependencies:
       - supports-color
