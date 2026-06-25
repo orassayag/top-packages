@@ -144,8 +144,8 @@ importers:
         specifier: ^1.11.0
         version: 1.11.0
       nanoid:
-        specifier: ^5.1.15
-        version: 5.1.15
+        specifier: ^5.1.16
+        version: 5.1.16
       nodemon:
         specifier: ^3.1.14
         version: 3.1.14
@@ -3089,8 +3089,8 @@ packages:
   multimap@1.1.0:
     resolution: {integrity: sha512-0ZIR9PasPxGXmRsEF8jsDzndzHDj7tIav+JUmvIFB/WHswliFnquxECT/De7GR4yg99ky/NlRKJT82G1y271bw==}
 
-  nanoid@5.1.15:
-    resolution: {integrity: sha512-kBg3RpGtIe+RpTbyXwoI6pk5yD7KUiI3sygUqgeBMRst42KmhB4RZC7eiO9Wa1HIpaCCtpE2DJ6OI4Wi5ebwFw==}
+  nanoid@5.1.16:
+    resolution: {integrity: sha512-kVrnsrJqMR8+oLJnGEmSWw9BivK5mt7H3FZatVRjrc5wGqFYuBxX1yG7+A7Gi5AefkX6t/oCkizcQgpu0cY1dQ==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -7886,7 +7886,7 @@ snapshots:
 
   multimap@1.1.0: {}
 
-  nanoid@5.1.15: {}
+  nanoid@5.1.16: {}
 
   napi-postinstall@0.3.4: {}
 
