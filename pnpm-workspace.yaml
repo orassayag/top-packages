@@ -5,3 +5,4 @@ minimumReleaseAgeExclude:
   - commander@15.0.0
   - '@eslint/plugin-kit@0.7.2'
   - eslint@10.4.1
+  - '@tinyhttp/type-is@2.2.6'

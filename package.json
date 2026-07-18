@@ -79,7 +79,7 @@
   "dependencies": {
     "@file-type/xml": "^1.1.1",
     "@jest/get-type": "^30.1.0",
-    "@tinyhttp/type-is": "^2.2.5",
+    "@tinyhttp/type-is": "^2.2.6",
     "@xhmikosr/archive-type": "^8.1.0",
     "ajv": "^8.20.0",
     "algoquant": "^5.7.0",
