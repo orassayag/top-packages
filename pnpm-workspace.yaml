@@ -8,3 +8,4 @@ minimumReleaseAgeExclude:
   - '@tinyhttp/type-is@2.2.6'
   - mongoose@9.8.0
   - sinon@22.1.0
+  - tinybench@6.1.1

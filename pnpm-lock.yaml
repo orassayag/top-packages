@@ -237,8 +237,8 @@ importers:
         specifier: ^1.0.5
         version: 1.0.5
       tinybench:
-        specifier: ^6.0.2
-        version: 6.0.2
+        specifier: ^6.1.1
+        version: 6.1.1
       underscore:
         specifier: ^1.13.8
         version: 1.13.8
@@ -3998,8 +3998,8 @@ packages:
   tiny-truncate@1.0.5:
     resolution: {integrity: sha512-v69A1bjP624gxzBEvvshTMcwU2tkMcuAOIXAjJj0AG7aR+/YFmBYSw3rEKo0Ma2SCX7coeq9MNnUHQo1wZmMHw==}
 
-  tinybench@6.0.2:
-    resolution: {integrity: sha512-FlHoQpcFvCzeXK5kVPvV7IVgW/hs/B36QWTz876iSdeJguBDfdTSRQmYmaHX+fQNt4hp+gEFB2XXw+8hT4/y8A==}
+  tinybench@6.1.1:
+    resolution: {integrity: sha512-SDN4WuaFCTe7tT1sE6XqCW7J3kZctHdRGkHwVbTdeOyIOuMG2x9GwJudu7Kupv9rT2TfbhIyTiyiuXIQspAepA==}
     engines: {node: '>=20.0.0'}
 
   tmp@0.2.5:
@@ -8928,7 +8928,7 @@ snapshots:
     dependencies:
       ansi-truncate: 1.4.0
 
-  tinybench@6.0.2: {}
+  tinybench@6.1.1: {}
 
   tmp@0.2.5: {}
 
