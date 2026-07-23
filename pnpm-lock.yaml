@@ -102,8 +102,8 @@ importers:
         specifier: ^11.1.5
         version: 11.1.5
       fs-extra:
-        specifier: ^11.3.6
-        version: 11.3.6
+        specifier: ^11.4.0
+        version: 11.4.0
       grunt:
         specifier: ^1.6.2
         version: 1.6.2
@@ -237,8 +237,8 @@ importers:
         specifier: ^1.0.5
         version: 1.0.5
       tinybench:
-        specifier: ^6.1.1
-        version: 6.1.1
+        specifier: ^6.1.2
+        version: 6.1.2
       underscore:
         specifier: ^1.13.8
         version: 1.13.8
@@ -2045,8 +2045,8 @@ packages:
     resolution: {integrity: sha512-Rx/WycZ60HOaqLKAi6cHRKKI7zxWbJ31MhntmtwMoaTeF7XFH9hhBp8vITaMidfljRQ6eYWCKkaTK+ykVJHP2A==}
     engines: {node: '>= 0.8'}
 
-  fs-extra@11.3.6:
-    resolution: {integrity: sha512-w8ZNZr2mKIc7qeNaQ9AVPT1+iFaI+Avd4xudVOvdDJ8VytREi1Ft5Ih7hd9jjehod8vAM5GMsfQ/TpPf4EyoEA==}
+  fs-extra@11.4.0:
+    resolution: {integrity: sha512-EQsFzMUJkCKGr1ePqlYADkIUmHW1s3ZXr5Yqy6wbGrfUCphpl2maM/kyOIRA2HpP3AaFQTZXD4ldjek+nccddA==}
     engines: {node: '>=14.14'}
 
   fs-extra@8.1.0:
@@ -3998,8 +3998,8 @@ packages:
   tiny-truncate@1.0.5:
     resolution: {integrity: sha512-v69A1bjP624gxzBEvvshTMcwU2tkMcuAOIXAjJj0AG7aR+/YFmBYSw3rEKo0Ma2SCX7coeq9MNnUHQo1wZmMHw==}
 
-  tinybench@6.1.1:
-    resolution: {integrity: sha512-SDN4WuaFCTe7tT1sE6XqCW7J3kZctHdRGkHwVbTdeOyIOuMG2x9GwJudu7Kupv9rT2TfbhIyTiyiuXIQspAepA==}
+  tinybench@6.1.2:
+    resolution: {integrity: sha512-REdMxUreK3VSUeWcLd5+ijUGNKFyHT8s1trKmYEE/tlYE6ggdOkFOlKba/vI/l1fIqh/NTEEr1Cyw4AwttOicA==}
     engines: {node: '>=20.0.0'}
 
   tmp@0.2.5:
@@ -6516,7 +6516,7 @@ snapshots:
 
   fresh@2.0.0: {}
 
-  fs-extra@11.3.6:
+  fs-extra@11.4.0:
     dependencies:
       graceful-fs: 4.2.11
       jsonfile: 6.2.1
@@ -8928,7 +8928,7 @@ snapshots:
     dependencies:
       ansi-truncate: 1.4.0
 
-  tinybench@6.1.1: {}
+  tinybench@6.1.2: {}
 
   tmp@0.2.5: {}
 
