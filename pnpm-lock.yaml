@@ -43,13 +43,13 @@ importers:
         version: 3.7.2
       centra:
         specifier: ^2.7.0
-        version: 2.7.0
+        version: 2.7.0(debug@4.3.7)
       chai:
         specifier: ^6.2.2
         version: 6.2.2
       chalk:
-        specifier: ^5.6.2
-        version: 5.6.2
+        specifier: ^6.0.0
+        version: 6.0.0
       cheerio:
         specifier: ^1.2.0
         version: 1.2.0
@@ -88,7 +88,7 @@ importers:
         version: 3.2.0
       eslint:
         specifier: ^10.8.0
-        version: 10.8.0
+        version: 10.8.0(supports-color@8.1.1)
       express:
         specifier: ^5.2.1
         version: 5.2.1(supports-color@5.5.0)
@@ -124,7 +124,7 @@ importers:
         version: 9.0.3
       karma:
         specifier: ^6.4.4
-        version: 6.4.4(supports-color@5.5.0)
+        version: 6.4.4(debug@4.3.7)(supports-color@5.5.0)
       low-rm:
         specifier: ^0.0.4
         version: 0.0.4
@@ -1299,9 +1299,9 @@ packages:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
     engines: {node: '>=10'}
 
-  chalk@5.6.2:
-    resolution: {integrity: sha512-7NzBL0rN6fMUW+f7A6Io4h40qQlG+xGmtMxfbnH/K7TAtt8JQWVQK+6g0UXKMeVJoyV5EkkNsErQ8pVD3bLHbA==}
-    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+  chalk@6.0.0:
+    resolution: {integrity: sha512-2uNTXIuTTxk7ciZgAU1BQcgnchcG0xXnrs6jzkQfj9SsRa9M2s5zE8WT96hS6KmG4MzWHSrvH43DF1m4XRkrFg==}
+    engines: {node: '>=22'}
 
   char-regex@1.0.2:
     resolution: {integrity: sha512-kWWXztvZ5SBQV+eRgKFeh8q5sLuZY2+8WUIzlxWVTg+oGwY14qylx1KbKzHd8P6ZYkAg0xyIDU9JMHhyJMZ1jw==}
@@ -4589,14 +4589,14 @@ snapshots:
 
   '@epic-web/invariant@1.0.0': {}
 
-  '@eslint-community/eslint-utils@4.9.1(eslint@10.8.0)':
+  '@eslint-community/eslint-utils@4.9.1(eslint@10.8.0(supports-color@8.1.1))':
     dependencies:
-      eslint: 10.8.0
+      eslint: 10.8.0(supports-color@8.1.1)
       eslint-visitor-keys: 3.4.3
 
   '@eslint-community/regexpp@4.12.2': {}
 
-  '@eslint/config-array@0.23.5':
+  '@eslint/config-array@0.23.5(supports-color@8.1.1)':
     dependencies:
       '@eslint/object-schema': 3.0.5
       debug: 4.4.3(supports-color@8.1.1)
@@ -5582,7 +5582,7 @@ snapshots:
 
   caniuse-lite@1.0.30001793: {}
 
-  centra@2.7.0:
+  centra@2.7.0(debug@4.3.7):
     dependencies:
       follow-redirects: 1.16.0(debug@4.3.7)
     transitivePeerDependencies:
@@ -5623,7 +5623,7 @@ snapshots:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
 
-  chalk@5.6.2: {}
+  chalk@6.0.0: {}
 
   char-regex@1.0.2: {}
 
@@ -6143,11 +6143,11 @@ snapshots:
 
   eslint-visitor-keys@5.0.1: {}
 
-  eslint@10.8.0:
+  eslint@10.8.0(supports-color@8.1.1):
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0)
+      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(supports-color@8.1.1))
       '@eslint-community/regexpp': 4.12.2
-      '@eslint/config-array': 0.23.5
+      '@eslint/config-array': 0.23.5(supports-color@8.1.1)
       '@eslint/config-helpers': 0.7.0
       '@eslint/core': 1.2.1
       '@eslint/plugin-kit': 0.7.2
@@ -6783,7 +6783,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  http-proxy@1.18.1:
+  http-proxy@1.18.1(debug@4.3.7):
     dependencies:
       eventemitter3: 4.0.7
       follow-redirects: 1.16.0(debug@4.3.7)
@@ -7502,7 +7502,7 @@ snapshots:
 
   kareem@3.3.0: {}
 
-  karma@6.4.4(supports-color@5.5.0):
+  karma@6.4.4(debug@4.3.7)(supports-color@5.5.0):
     dependencies:
       '@colors/colors': 1.5.0
       body-parser: 1.20.5
@@ -7513,7 +7513,7 @@ snapshots:
       dom-serialize: 2.2.1
       glob: 7.2.3
       graceful-fs: 4.2.11
-      http-proxy: 1.18.1
+      http-proxy: 1.18.1(debug@4.3.7)
       isbinaryfile: 4.0.10
       lodash: 4.18.1
       log4js: 6.9.1(supports-color@5.5.0)
