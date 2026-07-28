@@ -109,7 +109,7 @@
     "fastify": "^5.10.0",
     "file-entry-cache": "^11.1.5",
     "fs-extra": "^11.4.0",
-    "grunt": "^1.6.2",
+    "grunt": "^1.6.3",
     "http-status": "^2.1.0",
     "is-typed-array": "^1.1.15",
     "jest": "^30.4.2",
