@@ -138,8 +138,8 @@ importers:
         specifier: ^2.30.1
         version: 2.30.1
       mongoose:
-        specifier: ^9.8.0
-        version: 9.8.0(socks@2.8.9)
+        specifier: ^9.8.1
+        version: 9.8.1(socks@2.8.9)
       morgan:
         specifier: ^1.11.0
         version: 1.11.0
@@ -3043,8 +3043,8 @@ packages:
       socks:
         optional: true
 
-  mongoose@9.8.0:
-    resolution: {integrity: sha512-PDGx3XACxrBQyWf4YT+5s1Xsx19x84UWGlRVIza4i9RG6qKjGcoG7odotT6uquR6YoaDMTZ6ZZc/jMXLrNPyyA==}
+  mongoose@9.8.1:
+    resolution: {integrity: sha512-1ncioLSBWeFSXIiKw6aR4YYFAhpvS7uSbPpkzq5ELSP9PEScGkbzFg6Q0mNuHighosmgZPYPsY4sSIXqkY3/hw==}
     engines: {node: '>=20.19.0'}
 
   more-proms@1.11.6:
@@ -7793,7 +7793,7 @@ snapshots:
     optionalDependencies:
       socks: 2.8.9
 
-  mongoose@9.8.0(socks@2.8.9):
+  mongoose@9.8.1(socks@2.8.9):
     dependencies:
       '@standard-schema/spec': 1.1.0
       kareem: 3.3.0
