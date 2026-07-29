@@ -12,3 +12,4 @@ minimumReleaseAgeExclude:
   - fs-extra@11.4.0
   - chalk@6.0.0
   - grunt@1.6.3
+  - axios@1.19.0
