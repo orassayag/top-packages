@@ -6,10 +6,12 @@ minimumReleaseAgeExclude:
   - '@eslint/plugin-kit@0.7.2'
   - eslint@10.4.1 || 10.8.0
   - '@tinyhttp/type-is@2.2.6'
-  - mongoose@9.8.0 || 9.8.1
+  - mongoose@9.8.0 || 9.8.1 || 9.9.0
   - sinon@22.1.0
   - tinybench@6.1.1 || 6.1.2
   - fs-extra@11.4.0
   - chalk@6.0.0
   - grunt@1.6.3
   - axios@1.19.0
+  - fastify@5.11.0
+  - process-warning@5.1.0
